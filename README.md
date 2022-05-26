@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Currently, I'm pursuing fullstack career programs at <a href="https://www.edureka.co/masters-program/full-stack-developer-training" target="_blank">Edureka</a> and <a href="https://www.freecodecamp.org/learn" target="_blank">FreeCodeCamp</a>
+### Currently, I'm pursuing fullstack career programs at Edureka and FreeCodeCamp.
 
 <!--
 **souvik88/souvik88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
