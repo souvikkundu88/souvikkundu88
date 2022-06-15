@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Currently, I'm pursuing fullstack career programs at Edureka and FreeCodeCamp.
+### I'm a result-driven software developer with experience in developing scalable web applications using JavaScript ES6. I have worked on fullstack web application projects using the latest technologies React, Angular, TypeScript, Node.js, Express, MongoDB, with a good understanding of the best practices of design patterns such as MVVM.
 
 <!--
 **souvik88/souvik88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
