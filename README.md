@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm a result-driven software developer with experience in developing scalable web applications using JavaScript ES6. I have worked on fullstack web application projects using the latest technologies React, Angular, TypeScript, Node.js, Express, MongoDB, with a good understanding of the best practices of design patterns such as MVVM.
+### I'm a self-motivated, result-driven software developer with experience in developing web applications using JavaScript ES6. I have worked on fullstack web application projects using the latest technologies React, Angular, TypeScript, Node.js, Express, MongoDB.
 You may reach out to me for work 📧 kivtech88@gmail.com
 
 <!--
