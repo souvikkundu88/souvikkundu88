@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-### I'm a self-motivated, result-driven software developer with experience in developing web applications using JavaScript ES6. I have worked on fullstack web application projects using the latest technologies React, Angular, TypeScript, Node.js, Express, MongoDB.
-You may reach out to me for work 📧 kivtech88@gmail.com
+### I have built fullstack web applications with React, Angular, TypeScript, Node.js, Express, MongoDB. Open to remote only fullstack developer roles.
 
 <!--
 **souvik88/souvik88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
