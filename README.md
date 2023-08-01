@@ -6,5 +6,4 @@ Welcome to my profile! I am an aspiring full stack web developer currently enrol
 ### Seeking Opportunities
 As a recent bootcamp graduate, I am excited to embark on a career in full stack web development. I am actively seeking opportunities to contribute my skills and make a positive impact on real-world projects. I am open to internships, entry-level roles, and collaborative projects that foster growth and allow me to grow as a developer.
 
-### Let's Connect!
-
+### <u>Let's Connect on [LinkedIn](https://www.linkedin.com/in/souvikkundu/) or [Twitter](https://twitter.com/SouvikKundu88)</u>
